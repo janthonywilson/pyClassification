@@ -1,0 +1,25 @@
+Genre Unique
+Action
+Adult
+Adventure
+Anime
+Children
+Comedy
+Cooking
+Crime
+DIY
+Drama
+Espionage
+Family
+Fantasy
+History
+Horror
+Medical
+Music
+Mystery
+Romance
+Science-Fiction
+Thriller
+Travel
+War
+Western

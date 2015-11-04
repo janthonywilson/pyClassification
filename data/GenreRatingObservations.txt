@@ -1,0 +1,24 @@
+Genre	Mean Rating	Observations
+Action	8.07739938	1360
+Adult	nan	8
+Adventure	7.83221477	213
+Anime	9	14
+Children	nan	54
+Comedy	7.95456674	3381
+Cooking	5.40677966	287
+Crime	9	147
+DIY	nan	44
+Drama	8.19155844	5125
+Family	5.36	131
+Fantasy	8.11764706	76
+History	nan	16
+Horror	7.79591837	59
+Medical	nan	9
+Music	1	26
+Mystery	nan	2
+Romance	nan	21
+Science-Fiction	8.30582524	235
+Thriller	7	3
+Travel	1	5
+War	8.14035088	63
+Western	10	3
